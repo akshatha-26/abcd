@@ -1,2 +1,3 @@
 # ICTdjango
- kmijnhi
+Practing Python and Exploring how Django framework works
+
